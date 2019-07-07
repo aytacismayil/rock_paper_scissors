@@ -1,0 +1,30 @@
+body{
+    width: 30%;
+    margin: 0 auto;
+}
+
+#wins ,#losses ,#ties{
+    border: 2px sold red;
+    background: red;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+
+strong{
+    display: block;
+    text-align: center;
+    background: grey;
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+    background: blue;
+   
+}
+   
+   
